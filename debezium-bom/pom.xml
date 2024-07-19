@@ -38,7 +38,7 @@
 
         <!-- Scripting -->
         <version.groovy>3.0.7</version.groovy>
-        <version.graalvm.js>20.0.0</version.graalvm.js>
+        <version.graalvm.js>20.3.15</version.graalvm.js>
 
         <!-- Storages -->
         <version.jedis>4.1.1</version.jedis>
