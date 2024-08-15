@@ -27,7 +27,7 @@
         <version.google.protos>1.17.0</version.google.protos>
 
         <!-- Oracle dependencies -->
-        <version.infinispan>14.0.2.Final</version.infinispan>
+        <version.infinispan>14.0.21.Final</version.infinispan>
         <version.infinispan.protostream>4.5.0.Final</version.infinispan.protostream>
 
         <!-- Tracing -->
